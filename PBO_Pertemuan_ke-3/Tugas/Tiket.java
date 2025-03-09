@@ -1,4 +1,4 @@
-/*  File        : AngkaSial.java
+/*  File        : Tiket.java
     Deskripsi   : Program penggunaan tiket
     Pembuat     : Moh Yusril Nur Syabani - 24060123140181
     Tanggal     : 7 - Maret - 2025

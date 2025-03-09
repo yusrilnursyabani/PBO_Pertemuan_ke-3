@@ -1,4 +1,4 @@
-/*  File        : AngkaSial.java
+/*  File        : Pesanan.java
     Deskripsi   : Program untuk pegunaan pesanan
     Pembuat     : Moh Yusril Nur Syabani - 24060123140181
     Tanggal     : 7 - Maret - 2025
